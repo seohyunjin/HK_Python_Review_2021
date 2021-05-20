@@ -1,5 +1,6 @@
 # cmd review
-C:\Workspace\Asus_Python>git clone directory address
+
+C:\Workspace\Asus_Python>git clone https://github.com/seohyunjin/HK_Python_Review_2021.git
 
 C:\Workspace\Asus_Python>git init 
 
@@ -8,3 +9,9 @@ C:\Workspace\Asus_Python>git add .
 C:\Workspace\Asus_Python>dir
 
 C:\Workspace\Asus_Python>git commit -m "Working at Home"
+
+C:\Workspace\Asus_Python>git branch -M main
+
+C:\Workspace\Asus_Python>git remote add origin https://github.com/seohyunjin/HK_Python_Review_2021.git
+
+C:\Workspace\Asus_Python>git push -u origin main
