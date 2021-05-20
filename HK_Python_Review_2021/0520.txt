@@ -1,1 +1,10 @@
-New File 
+# cmd review
+C:\Workspace\Asus_Python>git clone directory address
+
+C:\Workspace\Asus_Python>git init 
+
+C:\Workspace\Asus_Python>git add .
+
+C:\Workspace\Asus_Python>dir
+
+C:\Workspace\Asus_Python>git commit -m "Working at Home"
