@@ -1,0 +1,25 @@
+# Git Hub 
+
+## FOR THE FIRST TIME
+
+### Make repository(project)
+github.com -> Make repository(project) 
+
+### to git hub
+git init git add . 
+git commit –m "Commit message"
+git branch –M main 
+git remote add origin https://github.com/~/project.git 
+git push -u origin main 
+
+### from git hub
+git clone https://github.com/~/project.git project-folder
+​
+
+## AFTER WORK
+
+### to git hub
+git add . git commit –m "Commit message" git push 
+
+### from git hub
+git pull 
